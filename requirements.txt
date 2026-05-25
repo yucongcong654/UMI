@@ -1,0 +1,10 @@
+pyserial
+h5py
+numpy
+opencv-python
+pyrealsense2
+pysurvive
+pyzmq
+rerun-sdk
+# wxpython
+Gooey
