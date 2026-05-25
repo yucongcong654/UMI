@@ -113,13 +113,13 @@ conda activate umi-train
 
 ## 6.社区与交流
 
-- - GitHub Issues：用于提交Bug、功能需求和问题咨询。
+- GitHub Issues：用于提交Bug、功能需求和问题咨询。
 - 微信群：欢迎添加微信号“13681751192”（小助手）， 加入交流群
 - 扫描二维码加入群聊
 
 <img src="docs/images/1b945b1e82a3b088a62f5e63356b6c35.jpg" alt="微信群二维码" width="25%" />
 
-- - 邮箱：cxy1454272125@126.com（用于正式合作和问题咨询）
+- 邮箱：cxy1454272125@126.com（用于正式合作和问题咨询）
 
 # 详细使用指南
 Ref: https://dcnk1u1qkxw1.feishu.cn/docx/RhxTd7U2soCXnPxJjS4cX4tFnjd
