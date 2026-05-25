@@ -117,6 +117,13 @@ conda activate umi-train
 - 微信群：欢迎添加微信号“13681751192”（小助手）， 加入交流群
 - 扫描二维码加入群聊
 
+![微信二维码](./wechat-qrcode.jpg)
+
+<p align="center">
+  <img src="./wechat-qrcode.jpg" alt="微信二维码" width="25" />
+  <br>
+  
+
 <img src="docs/images/1b945b1e82a3b088a62f5e63356b6c35.jpg" alt="微信群二维码" width="25%" />
 
 - 邮箱：cxy1454272125@126.com（用于正式合作和问题咨询）
